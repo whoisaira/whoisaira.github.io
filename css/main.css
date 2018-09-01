@@ -1,0 +1,23 @@
+h1 {
+	background-color: #7b00ff;
+	color: #00ff2a;
+	width: 150px;
+}
+
+body {
+	font-family: "Comic Sans MS"
+}
+
+p {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.intro {
+	background-color: #f6ff00;
+	padding: 100;
+}
+
+.list {
+	background-color: aqua;
+}
